@@ -1,6 +1,6 @@
 # Learning JavaScript Data Structures and Algorithms - Third Edition
 
-[中文]("README-zh.md")
+[中文](README-zh.md)
 
 This is the code repository for [Learning JavaScript Data Structures and Algorithms - Third Edition](https://www.packtpub.com/web-development/learning-javascript-data-structures-and-algorithms-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788623872), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 
